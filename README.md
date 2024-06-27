@@ -19,5 +19,6 @@ How did you make certain the code and software application were functional and s
 
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-
+Three resources that were useful for me during this class that I will continue to use are the Spring Framework website, the OWASP website and the Java Platform SE 8 website. The Spring Framework website helped me understand more about Spring Boot. I would like to continue learning more about Boot and other features. The OWASP website helped me learn more about the Dependency Check tool. I would like to learn more about other tools that are offered that could be useful in future projects. The Java Platform SE 8 website was useful in learning about different algorithm ciphers. This website will be useful in continuing to learn Java specific libraries or features. I plan to continue to refer to these resources in order to deepen my understanding of software security and improve my practices as a developer. 
+ 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
