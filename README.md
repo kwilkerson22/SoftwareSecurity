@@ -24,4 +24,4 @@ Three resources that were useful for me during this class that I will continue t
  
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
-I would show them my cryptography work on Project Two. I learned to incorporate my recommendation of algorithm ciphers, certificate generation, and depl deploy these ciphers to establish a secure HTTPS connection in an application. This project highlights my understanding of symmetric and asymmetric encryption as well as digital signatures. 
+I would show them my cryptography work on Project Two. I learned to incorporate my recommendation of algorithm ciphers, certificate generation, and  deploy these ciphers to establish a secure HTTPS connection in an application. This project highlights my understanding of symmetric and asymmetric encryption as well as digital signatures. 
