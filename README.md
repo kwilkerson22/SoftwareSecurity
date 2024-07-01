@@ -7,7 +7,7 @@ The client was Artemis Financial and they are a consulting company that develops
 
 **What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?**
 
-I did well on coming up with a mitigation plan and refactoring the application code. For my mitigation plan, I focused on stregnthening the applicable areas on security and incorporate best practices. For refactoring the application code, I focused on making sure that I did not introduce new vulnerabilities. It is important to code securely because it prevents common vulnerabilities that bad actors could exploit and cause significant damage. For the client, it helps protect data by avoiding costly data breaches, makes sure they are in complance with government laws and maintains the trust of the user. 
+I did well on coming up with a mitigation plan and refactoring the application code. For my mitigation plan, I focused on stregnthening the applicable areas on security and incorporating best practices. For refactoring the application code, I focused on making sure that I did not introduce new vulnerabilities. It is important to code securely because it prevents common vulnerabilities that bad actors could exploit and cause significant damage. For the client, it helps protect data by avoiding costly data breaches, makes sure they are in complance with government laws and maintains the trust of the user. 
 
 
 **Which part of the vulnerability assessment was challenging or helpful to you?**
