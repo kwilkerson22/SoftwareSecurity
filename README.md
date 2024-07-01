@@ -10,6 +10,8 @@ What did you do well when you found your client’s software security vulnerabil
 
 Which part of the vulnerability assessment was challenging or helpful to you?
 
+For static testing, the OWASP Dependency Check tool was very useful in identifying improvements that need to be made based on known vulnerabilities. It would have taken a lot more time to go through all of the dependencies in the pom.xml file manually to make sure that they were up to date and did not have known vulnerabilities. 
+
 
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
