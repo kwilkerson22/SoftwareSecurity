@@ -1,4 +1,4 @@
-# SoftwareSecurity (CS 305)
+# Software Security (CS 305)
 
 **Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?**
 
