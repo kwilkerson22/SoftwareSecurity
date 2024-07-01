@@ -17,6 +17,8 @@ For static testing, the OWASP Dependency Check tool was very useful in identifyi
 
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
+To protect data in transit I added encrpytion using the RSA algorithm with 2048 bit keys and enabled a secure HTTPS connection to increase the layers of security. For data at rest, I employed a SHA-384 hashing algorithm to maintain data integrity. In the future, I will continue to use static and dynamic testing to make a comprehensive assessment of existing vulnerabilities. In the future, I want to incorporate more tools into my kit as a developer such as the OWASP Dependency Check that we used in this class.  
+
 
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
