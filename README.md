@@ -22,7 +22,7 @@ To protect data in transit I added encrpytion using the RSA algorithm with 2048 
 
 **How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?**
 
-In order to make sure my application was functional and secure I conducted a code review and functional testing. When I conducted a code review I looked for security issues and logic errors. From there, I conducted functional testing to make sure that application behaved in a way that satisfied the requirements of the client (Artemis Financial).  After I refactored my code, I ran a new dependency check to make sure that I did not introduce new vulnerabilities into the applicaiton.
+In order to make sure my application was functional and secure, I conducted a code review and functional testing. When I conducted a code review I looked for security issues and logic errors. From there, I conducted functional testing to make sure that the application behaved in a way that satisfied the requirements of the client (Artemis Financial).  After I refactored my code, I ran a new dependency check to make sure that I did not introduce new vulnerabilities into the applicaiton.
 
 
 
