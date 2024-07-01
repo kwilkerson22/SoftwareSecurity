@@ -2,7 +2,7 @@
 
 **Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?**
 
-The client was Artemis Financial and they are a consulting company that develops financial plans for their customers including savings, retirement, investment and insurance. They needed to improve their software by incorporating effective software security strategies in order to protect user data and financial information. In my second project, Artemis Financial needed to add a file verification step (checksum) to its web application to enable secure communication.
+The client was Artemis Financial and they are a consulting company that develops financial plans for their customers including savings, retirement, investment and insurance. They needed to improve their software by incorporating effective software security strategies in order to protect user data and financial information. In my second project, Artemis Financial needed to add a file verification step (checksum) to their web application to enable secure communication.
 
 
 **What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?**
