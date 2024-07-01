@@ -1,6 +1,6 @@
 # SoftwareSecurity
 
-Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+**Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?**
 
 The client was Artemis Financial and they are a consulting company that develops financial plans for their customers including savings, retirement, investment and insurance. They needed to improve their software by incorporating effective software security strategies in order to protect user data and financial information. In my second project, Artemis Financial needed to add a file verification step (checksum) to its web application to enable secure communication.
 
